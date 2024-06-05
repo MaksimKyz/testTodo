@@ -11,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2hSgzoFFL00jKhzimIxpb8udpVx" />
@@ -38,8 +43,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\maksk\WebstormProjects\todo\src\tests" />
       <recent name="C:\Users\maksk\WebstormProjects\todo" />
+      <recent name="C:\Users\maksk\WebstormProjects\todo\src\tests" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717593157884</updated>
-      <workItem from="1717593159061" duration="11572000" />
+      <workItem from="1717593159061" duration="11885000" />
     </task>
     <servers />
   </component>
