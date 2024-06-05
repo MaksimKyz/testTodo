@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MaksimKyz/testTodo/static/css/main.e1e75acd.css",
+    "main.js": "/MaksimKyz/testTodo/static/js/main.68cd7290.js",
+    "index.html": "/MaksimKyz/testTodo/index.html",
+    "main.e1e75acd.css.map": "/MaksimKyz/testTodo/static/css/main.e1e75acd.css.map",
+    "main.68cd7290.js.map": "/MaksimKyz/testTodo/static/js/main.68cd7290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e75acd.css",
+    "static/js/main.68cd7290.js"
+  ]
+}
